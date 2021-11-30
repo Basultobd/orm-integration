@@ -1,0 +1,7 @@
+dist
+logs
+node_modules
+yarn-error.log
+database.sqlite
+.DS_store
+.env
